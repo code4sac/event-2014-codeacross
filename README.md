@@ -1,4 +1,9 @@
-event-2014-codeacross
+see http://code4sac.github.io/event-2014-codeacross/
 =====================
 
-getting organized for CodeAcross 2014! [Saturday Feb 22]
+code is on branch = gh-pages
+
+all contributes welcome! 
+
+for ideas, questions, etc. let's see if we can make use of this repo's issues feature...
+if not... well, google groups it is then ;-)
