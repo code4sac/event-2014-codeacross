@@ -9,7 +9,8 @@ To help with the website or google docs for the event, please see the [issues se
 Feel free to add ideas and questions to the issues as needed! 
 
 
-*** CodeAcross Sacramento 2014 is coming to Hacker Lab on Saturday, Feb 22, 2014, 10:00 am to 4:00 pm. 
+### CodeAcross Sacramento 2014 is coming to Hacker Lab on Saturday, Feb 22, 2014, 10:00 am to 4:00 pm. 
 
 Please RSVP [here](http://www.eventbrite.com/e/codeacross-sacramento-tickets-9721564461).
+-----------------------------------------------------------------------------------------
 
