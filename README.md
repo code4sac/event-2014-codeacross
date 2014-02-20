@@ -2,7 +2,7 @@ CodeAcross Sacramento 2014
 ==========================
 
 
-This repo contains the source code for Code4Sac's CodeAcross Website, which can be found at [www.codeacrosssac.org](http://www.codeacross.org).
+This repo contains the source code for Code4Sac's CodeAcross Website, which can be found at [www.codeacrosssac.org](http://www.codeacrosssac.org).
 
 To help with the website or google docs for the event, please see the [issues section](https://github.com/code4sac/event-2014-codeacross/issues)!
 
